@@ -1,2 +1,3 @@
 # howtogdpr.me
-Hot to gdpr me
+
+How to gdpr me
