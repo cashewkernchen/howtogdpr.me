@@ -28,3 +28,7 @@ Developer and want to help? Nice! Let's talk on [gitter](https://gitter.im/howto
 This page is using GitHub as hosting provider. It's privacy statement can be found [here](https://help.github.com/articles/github-privacy-statement/). We use Gitter as chat service. It's privacy statement can be found [here](https://about.gitlab.com/privacy/).
 
 If you have any question, feel free to contact [Bodo Tasche](http://bodo.tasche.me).
+
+<br><br>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="images/by-nc-sa-4.0.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
