@@ -10,6 +10,8 @@ about: Use this to add a new site to the list
 
 # Site description
 
+# Link to privacy policy
+
 # How can I request all information stored about me
 
 # What data do I get? And in what format?
