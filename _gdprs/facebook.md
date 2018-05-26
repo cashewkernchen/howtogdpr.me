@@ -1,13 +1,9 @@
 ---
-layout: site
+layout: gdpr
 title: Facebook
+description: Facebook is one of the most popular social networks
+privacy_policy: https://www.facebook.com/about/privacy/
 ---
-Facebook is one of the most popular social networks
-
-# Link to privacy policy
-
-https://www.facebook.com/about/privacy/
-
 # How can I request all information stored about me
 
 Step 1: Follow this link > https://www.facebook.com/settings?tab=your_facebook_information
