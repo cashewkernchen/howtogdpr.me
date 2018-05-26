@@ -8,6 +8,15 @@ help is welcome.
 
 This project has a [code of conduct](CODE_OF_CONDUCT.md), please follow it.
 
+# Want to help?
+
+Are you a designer? We need a decent looking site
+and a logo. Please [contact
+Bodo](mailto:bodo@wannawork.de) if you want to help.
+
+Developer and want to help? Nice! Let's talk on
+[gitter](https://gitter.im/howtogdpr/Lobby).
+
 # Build it locally
 
 To build the project locally you need [ruby](https://www.ruby-lang.org/en/) and

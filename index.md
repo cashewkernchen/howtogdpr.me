@@ -21,21 +21,22 @@ your help</strong> to do so.
 
 ## Collecting data
 
-Want to start sending GDPR requests? Nice! Please document your findings here so that we can add it to our
-list of pages. First check [here](https://github.com/howtogdpr/howtogdpr.me/labels/gdpr) if the site isn't already
-covered. If it isn't, create a new Issue on GitHub with [this link](https://github.com/howtogdpr/howtogdpr.me/issues/new?template=add-new-site.md) and fill out the form.
+Want to start sending GDPR requests? Nice! Please
+document your findings here so that we can add it to
+our list of pages. First check
+[here](https://github.com/howtogdpr/howtogdpr.me/labels/gdpr)
+if the site isn't already covered. If it isn't,
+create a new Issue on GitHub with [this
+link](https://github.com/howtogdpr/howtogdpr.me/issues/new?template=add-new-site.md)
+and fill out the form.
 
-Why GitHub? We wanted to start fast. In the future we might change this to a nice and easy form where you can enter all your data without using a third party service.
+Why GitHub? We wanted to start fast. In the future
+we might change this to a nice and easy form where
+you can enter all your data without using a third
+party service.
 
-## Design
-
-Are you a designer? We need a decent looking site and a logo. Please [contact Bodo](mailto:bodo@wannawork.de) if you want to help.
-
-## Development
-
-Developer and want to help? Nice! Let's talk on [gitter](https://gitter.im/howtogdpr/Lobby). 
-
-<br><br><br><br><br>
+If you want to help as developer or designer, please
+open the [GitHub Readme](https://github.com/howtogdpr/howtogdpr.me)
 
 ## Privacy
 
