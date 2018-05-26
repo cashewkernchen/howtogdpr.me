@@ -4,12 +4,15 @@ title: Welcome
 ---
 # Welcome
 
-On the 25th of May 2018 the [GDPR](https://www.eugdpr.org/) will finally be enforceable. You might have gotten
+On the 25th of May 2018 the [GDPR](https://www.eugdpr.org/) was finally enabled. You might have gotten
 a <strike>couple</strike> hundreds of emails regarding this. But how does it look in practice? What do I
 have to do to request the data? And what do I get in return? This portal wants to help with this. And <strong>we need
 your help</strong> to do so.
 
 # Sites
+
+Curious what a specific site is storing about you? And how to request that data?
+Here you will find a list of sites we already contacted:
 
 {% assign sorted = (site.gdprs | sort: 'title') %}
 <ul>
@@ -18,6 +21,7 @@ your help</strong> to do so.
 {% endfor %}
 </ul>
 
+Your favourite site missing? You can help us collect that data.
 
 ## Collecting data
 
