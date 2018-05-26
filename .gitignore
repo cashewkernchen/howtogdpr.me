@@ -1,1 +1,5 @@
 .sass-cache
+_site
+.pygments-cache
+.bundle
+.jekyll-metadata
