@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[howtogdpr.me]]></title>
+  <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
+  <link href="http://0.0.0.0:4000/"/>
+  <updated>2018-05-26T19:55:00+02:00</updated>
+  <id>http://0.0.0.0:4000/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    <email><![CDATA[bodo@tasche.me]]></email>
+  </author>
+
+  
+</feed>

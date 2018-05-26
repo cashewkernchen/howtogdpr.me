@@ -1,0 +1,8 @@
+{
+  "name": "howtogdpr.me",
+  "repository": "git@github.com:howtogdpr/howtogdpr.me.git",
+  "author": "Bodo Tasche <bodo@wannawork.de> (https://bitboxer.de)",
+  "dependencies": {
+    "modern-normalize": "^0.4.0"
+  }
+}

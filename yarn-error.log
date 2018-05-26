@@ -1,0 +1,36 @@
+Arguments: 
+  /home/vagrant/.asdf/installs/node/8.11.1/bin/node /home/vagrant/.asdf/installs/node/8.11.1/.npm/bin/yarn add modern-normalize
+
+PATH: 
+  /home/vagrant/.asdf/shims:/home/vagrant/.asdf/bin:/home/vagrant/Library/Python/2.7/bin:/home/vagrant/.local/bin:/home/vagrant/.yarn/bin:/usr/local/go/bin/:/home/vagrant/go/bin:/home/vagrant/.avm/node/bin:/home/vagrant/.avm/ruby/bin:/home/vagrant/.cargo/bin:./bin:/home/vagrant/bin:/home/vagrant/.bin:/usr/local/bin:/usr/local/sbin:/home/vagrant/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/vagrant/.fzf/bin
+
+Yarn version: 
+  1.6.0
+
+Node version: 
+  8.11.1
+
+Platform: 
+  linux x64
+
+Trace: 
+  SyntaxError: /home/vagrant/persistant/code/howtogdpr.me/package.json: Unexpected token } in JSON at position 158
+      at JSON.parse (<anonymous>)
+      at /home/vagrant/.asdf/installs/node/8.11.1/.npm/lib/node_modules/yarn/lib/cli.js:1130:59
+      at Generator.next (<anonymous>)
+      at step (/home/vagrant/.asdf/installs/node/8.11.1/.npm/lib/node_modules/yarn/lib/cli.js:98:30)
+      at /home/vagrant/.asdf/installs/node/8.11.1/.npm/lib/node_modules/yarn/lib/cli.js:109:13
+      at <anonymous>
+
+npm manifest: 
+  {
+    "name": "howtogdpr.me",
+    "repository": "git@github.com:howtogdpr/howtogdpr.me.git",
+    "author": "Bodo Tasche <bodo@wannawork.de> (https://bitboxer.de)",
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
