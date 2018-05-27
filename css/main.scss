@@ -12,9 +12,42 @@ body {
   text: $color;
 }
 
-.container, .footer {
+.header, .container, .footer {
   width: 50em;
   margin: 0em auto;
+}
+
+.header {
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  a:hover {
+    color: black;
+  }
+}
+
+.footer {
+  margin-bottom: 2em;
+  margin-top: 5em;
+
+  img {
+    float: right;
+    vertical-align: middle;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.container {
+  line-height: 1.5;
+  font-size: 1em;
+
+  img {
+    max-width: 100%;
+  }
 }
 
 @media (max-width: 50em) {
