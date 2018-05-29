@@ -4,7 +4,7 @@ title: Facebook
 description: Facebook is one of the most popular social networks
 privacy_policy: https://www.facebook.com/about/privacy/
 ---
-# How can I request all information stored about me
+# How can I request all information stored about me?
 
 * Open the [Your Facebook Information Page](https://www.facebook.com/settings?tab=your_facebook_information)
 * Click on **View** next to **Download Your information**
@@ -28,7 +28,7 @@ through all of the data.
 
 ![index page](/images/sites/facebook/html.png)
 
-# How can I delete all information stored about me
+# How can I delete all information stored about me?
 
 * Open the [Your Facebook Information Page](https://www.facebook.com/settings?tab=your_facebook_information)
 * Click on **View** next to **Delete Your Account Information**
