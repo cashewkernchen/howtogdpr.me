@@ -15,7 +15,22 @@ a data export. You will get an email with a link to a zip file.
 
 You will get a ZIP file containing a couple of JSON files and all your photos and videos. Including your stories.
 
-![list of files](/images/sites/instagram/files.png)
+<ul>
+  <li>&#128193; profile</li>
+  <li>&#128193; photos</li>
+  <li>&#128193; stories</li>
+  <li>&#128193; videos</li>
+  <li>&#128196; comments.json</li>
+  <li>&#128196; connections.json</li>
+  <li>&#128196; contacts.json</li>
+  <li>&#128196; likes.json</li>
+  <li>&#128196; media.json</li>
+  <li>&#128196; messages.json</li>
+  <li>&#128196; profile.json</li>
+  <li>&#128196; saved.json</li>
+  <li>&#128196; searches.json</li>
+  <li>&#128196; settings.json</li>
+</ul>
 
 # How can I delete all information stored about me?
 
