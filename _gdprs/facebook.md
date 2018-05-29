@@ -1,6 +1,7 @@
 ---
 layout: gdpr
 title: Facebook
+site_url: https://facebook.com
 description: Facebook is one of the most popular social networks
 privacy_policy: https://www.facebook.com/about/privacy/
 ---

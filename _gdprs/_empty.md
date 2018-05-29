@@ -2,6 +2,7 @@
 ---
 layout: gdpr
 title: 
+site_url:
 description: 
 privacy_policy: 
 ---

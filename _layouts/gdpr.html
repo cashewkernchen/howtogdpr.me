@@ -7,7 +7,10 @@ layout: default
 
     <p class='description'>{{page.description}}</p>
 
-    <p><a href="{{page.privacy_policy}}">Privacy Policy</a></p>
+    <p class='links'>
+      <a href="{{ page.site_url }}">Website</a> |
+      <a href="{{page.privacy_policy}}">Privacy Policy</a>
+    </p>
 
     <div class=}post'>
       {{ content | emojify }}

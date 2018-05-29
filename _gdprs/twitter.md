@@ -1,6 +1,7 @@
 ---
 layout: gdpr
 title: Twitter
+site_url: https://twitter.com
 description: Twitter is a social networking service.
 privacy_policy: https://twitter.com/en/privacy
 ---
