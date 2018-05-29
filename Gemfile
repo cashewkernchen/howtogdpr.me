@@ -9,6 +9,6 @@ gem 'jekyll-feed'
 
 gem 'jekyll-paginate'
 gem 'kramdown'
-gem 'pygments.rb'
+gem 'rouge'
 gem 'jekyll-sass-converter'
 gem 'jekyll-sitemap'
