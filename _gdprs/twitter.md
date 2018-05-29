@@ -14,7 +14,7 @@ privacy_policy: https://twitter.com/en/privacy
 
 # What data do I get? And in what format?
 
-
+You will get a PDF will all tweets and messages.
 
 # How can I delete all information stored about me?
 
