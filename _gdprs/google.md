@@ -25,4 +25,4 @@ through all of the data.
 
 * Go to the [delete account page](https://myaccount.google.com/deleteaccount) 
 * Confirm both checkboxes
-* Press "Delete Account"
+* Press **Delete Account**
