@@ -8,7 +8,7 @@ gem 'minima'
 gem 'jekyll-feed'
 
 gem 'jekyll-paginate'
-gem 'redcarpet'
+gem 'kramdown'
 gem 'pygments.rb'
 gem 'jekyll-sass-converter'
 gem 'jekyll-sitemap'
