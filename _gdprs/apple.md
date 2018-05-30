@@ -20,7 +20,7 @@ The system will send you an email when it is done generating the files for you.
 
 # What data do I get? And in what format?
 
-Not clear yet, we are still waiting for the first export.
+Not clear yet, we are still waiting for the first export. If you got your data, add a comment [in this issue](https://github.com/howtogdpr/howtogdpr.me/issues/7).
 
 # How can I delete all information stored about me?
 
