@@ -9,7 +9,7 @@ privacy_policy: https://discordapp.com/privacy
 # How can I request all information stored about me?
 
 * Open Discord on any device and click on **User Settings -> Privacy and Safety**
-* Click on the Request Data-Button
+* Click on the Request Data-Button    
   ![request data button](/images/sites/discord/request_data.png)
 
 # What data do I get? And in what format?
@@ -20,5 +20,5 @@ Not known yet. If you got your data, please comment in [this ticket](https://git
 
 * Open Discord on any device and click on **User Settings**
 * Click on **edit** under **My Account**
-* Click on **Delete Account**
+* Click on **Delete Account**    
   ![delete account button](/images/sites/discord/delete.png)
