@@ -1,4 +1,3 @@
-
 ---
 layout: gdpr
 title: Steam
