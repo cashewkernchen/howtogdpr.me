@@ -20,7 +20,29 @@ The system will send you an email when it is done generating the files for you.
 
 # What data do I get? And in what format?
 
-Not clear yet, we are still waiting for the first export. If you got your data, add a comment [in this issue](https://github.com/howtogdpr/howtogdpr.me/issues/7).
+After a couple of days you will get a link via email to a download
+page. On that page I could download 11 zip files containing the
+data of a service offered by Apple.
+
+These are the zip files I got:
+
+<ul>
+  <li>&#128193; Other data</li>
+  <li>&#128193; App Store, iTunes Store, iBooks Store, Apple Music</li>
+  <li>&#128193; Apple Online and Retail Stores</li>
+  <li>&#128193; Apple-ID-Account- and device information</li>
+  <li>&#128193; AppleCare</li>
+  <li>&#128193; Game Center</li>
+  <li>&#128193; iCloud Bookmarks</li>
+  <li>&#128193; iCloud Calendars and Reminders</li>
+  <li>&#128193; iCloud Contacts</li>
+  <li>&#128193; iCloud Notes</li>
+  <li>&#128193; marketing-communications</li>
+</ul>
+
+In most folders I found CSV files with my data, in some cases they used more
+specific file formats. PDFs for receipts, VCF for my contacts, ICS for my calendars
+and so on.
 
 # How can I delete all information stored about me?
 
