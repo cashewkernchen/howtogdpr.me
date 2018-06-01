@@ -17,7 +17,7 @@ and demand an data export.
 
 They will send you an email asking you to reply to it to confirm
 that you are the owner of that account. After that you will get
-a link to **Dropbox** :sad: with a folder with all your data in it.
+a link to **Dropbox** with a folder with all your data in it.
 Going this route apparently means that you will share all your
 health tracking data with them, too.
 
