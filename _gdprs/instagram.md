@@ -4,6 +4,7 @@ title: Instagram
 site_url: https://instagram.com
 description: Instagram is a photo and video-sharing social networking service owned by Facebook, Inc
 privacy_policy: https://help.instagram.com/155833707900388 
+data_returned_in_days: 3
 ---
 
 # How can I request all information stored about me?

@@ -4,6 +4,7 @@ title: Facebook
 site_url: https://facebook.com
 description: Facebook is one of the most popular social networks
 privacy_policy: https://www.facebook.com/about/privacy/
+data_returned_in_days: 0
 ---
 # How can I request all information stored about me?
 

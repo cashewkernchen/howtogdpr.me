@@ -7,6 +7,12 @@ layout: default
 
     <p class='description'>{{page.description}}</p>
 
+    {% if page.data_returned_in_days %}
+      <p class='duration'>
+        It took {{page.title}} <strong>{{ page.data_returned_in_days }} days</strong> to return the data.
+      </p>
+    {% endif %}
+
     <p class='links'>
       <a href="{{ page.site_url }}">Website</a> |
       <a href="{{page.privacy_policy}}">Privacy Policy</a>

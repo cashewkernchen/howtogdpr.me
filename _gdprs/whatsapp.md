@@ -4,6 +4,7 @@ title: Whatsapp
 site_url: http://www.whatsapp.com
 description: Whatsapp is a mobile chat service.
 privacy_policy: https://www.whatsapp.com/legal/
+data_returned_in_days: 4
 ---
 
 # How can I request all information stored about me?

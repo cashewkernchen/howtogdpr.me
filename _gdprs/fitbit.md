@@ -4,6 +4,7 @@ title: Fitbit
 site_url: http://www.fitbit.com
 description: Fitbit builds activity trackers that measure data such as the number of steps walked, heart rate, quality of sleep, steps climbed, and other personal metrics involved in fitness. 
 privacy_policy: https://www.fitbit.com/uk/legal/privacy-policy
+data_returned_in_days: 10
 ---
 
 # How can I request all information stored about me?

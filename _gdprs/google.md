@@ -4,6 +4,7 @@ title: Google
 site_url: https://www.google.com/
 description: Google is a internet tech company that offers services like search, mail and other things.
 privacy_policy: https://policies.google.com/privacy
+data_returned_in_days: 0
 ---
 # How can I request all information stored about me?
 

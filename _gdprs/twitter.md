@@ -4,6 +4,7 @@ title: Twitter
 site_url: https://twitter.com
 description: Twitter is a social networking service.
 privacy_policy: https://twitter.com/en/privacy
+data_returned_in_days: 5
 ---
 # How can I request all information stored about me?
 

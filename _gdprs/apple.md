@@ -4,6 +4,7 @@ title: Apple
 site_url: https://www.apple.com
 description: Apple Inc. is an American multinational technology company<Paste>
 privacy_policy: https://www.apple.com/legal/privacy/en-ww/ 
+data_returned_in_days: 5
 ---
 
 # How can I request all information stored about me?
