@@ -14,9 +14,14 @@ you can request a data export.
 
 # What data do I get? And in what format?
 
-Not known yet. But looking at the [FAQ](https://faq.whatsapp.com/general/26000110?lg=en&lc=DE&eea=1)
-it will not contain the messages. Hopefully because they are encrypted and the service can't deliver them.
-If you got your data, add a comment in [this issue](https://github.com/howtogdpr/howtogdpr.me/issues/12).
+You will get a zip file with two files. A **json** and a **html** file. 
+Both contain the same information.
+
+![html in the zip file](/images/sites/whatsapp/export.png)
+
+It does not contain the messages, but all other data. For example your
+contacts and profile picture. Hopefully because they are encrypted and the
+service can't deliver them.
 
 # How can I delete all information stored about me?
 
