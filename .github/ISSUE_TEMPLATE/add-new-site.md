@@ -16,6 +16,8 @@ about: Use this to add a new site to the list
 
 # What data do I get? And in what format?
 
+# How long did you wait for the data to arrive?
+
 # How can I delete all information stored about me
 
 
